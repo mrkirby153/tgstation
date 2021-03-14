@@ -142,3 +142,5 @@ Skoglol = Game Master
 Time-Green = Game Master
 StyleMistake = Game Master
 actioninja = Game Master
+Mrkirby153 = Game Master
+PasteCho = Game Master
